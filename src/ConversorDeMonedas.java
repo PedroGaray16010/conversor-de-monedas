@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Conversor {
+public class ConversorDeMonedas {
     public static void main(String[] args) {
         // Tasas de cambio obtenidas de la API
         double rateARS = 350.25; // Tasa USD a ARS
